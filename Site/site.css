@@ -1,0 +1,26 @@
+body{
+	font-family: 'Alef', sans-serif;
+	font-weight: 400;
+}
+
+.text-muted {
+	color: #BCBBBB
+	font-weight: 100;
+}
+.text-thin{
+	font-weight: 100;
+}
+
+.title-super{
+	font-size: 45px;
+}
+
+.title-logo{
+	margin-top: 20px;
+}
+.text-center{
+	margin-top: 20px;
+	font-weight: 100;
+}
+
+
